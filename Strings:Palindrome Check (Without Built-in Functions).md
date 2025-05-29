@@ -13,8 +13,8 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 a=input()
 s=a[::-1]
 if a==s:
