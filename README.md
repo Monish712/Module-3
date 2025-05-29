@@ -10,8 +10,8 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 items=[153,147,124,102]
 print(sum(items))
 ```
@@ -39,8 +39,8 @@ To write a Python program that filters out and returns all elements from a list 
 
 ## 🧾 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 import re
 l1 = []
 items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
@@ -74,8 +74,8 @@ To write a Python program that accepts a string and removes the character at a s
 
 ## 💻 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 n=int(input())
 def remove(a):
     for i in range(0,len(a)):
@@ -104,8 +104,8 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 a=input()
 s=a[::-1]
 if a==s:
@@ -133,8 +133,8 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 ```
-Developed by: Abishek P
-Register Number: 212224240002
+Developed by: PAKANATI MONISH
+Register Number: 212224240109
 tuplex = input()
 print("n" in tuplex)
 print("8" in tuplex)
